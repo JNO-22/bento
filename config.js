@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Julian',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'es', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '-29.4111',
+	defaultLongitude: '-66.8507',
 
 	// Autochange
 	autoChangeTheme: true,
